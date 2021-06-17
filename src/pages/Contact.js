@@ -45,11 +45,11 @@ const Contact = () => {
             <div className="socialNetwork">
             
              <ul>
-               <a href="https://wwww.google.com" target="_blank" rel="noopener noreferrer">
+               <a href="https://www.linkedin.com/in/richard-haddad-08b101153/" target="_blank" rel="noopener noreferrer">
                  <h4>Linkedin</h4>
                  <i className="fab fa-linkedin"></i>
                </a>
-               <a href="https://wwww.google.com" target="_blank" rel="noopener noreferrer">
+               <a href="https://github.com/Richard95360" target="_blank" rel="noopener noreferrer">
                  <h4>Github</h4>
                  <i className="fab fa-github"></i>
                </a>

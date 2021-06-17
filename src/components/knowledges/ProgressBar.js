@@ -8,13 +8,13 @@ const ProgressBar = (children) => {
            <div className="years">
                <span>Années d'expérience</span>
                <span>1 ans</span>
-               <span>2 ans</span>
+               <span>5 ans</span>
            </div>
 
            <div>
                {
                    children.languages.map((item) => {
-                       let xpYears = 2;
+                       let xpYears = 5;
                        let progressBar = item.xp / xpYears * 100 + '%';
 
                        return (
