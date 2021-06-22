@@ -12,7 +12,7 @@ const Experience = () => {
                  base de donnée PostgreSQL)
                 de gestion des partenariats numérique de la Bibliothèque nationale de France 
                 (signalisation, numérisation et versement de documents dans Gallica par un pool de plusieurs dizaines de partenaires institutionnels), 
-                dans le cadre d’une méthode agile scrum.</p>
+                dans le cadre d’une méthode agile (scrum)</p>
             </div>
             <div className="exp2">
                 <h4>Développeur Java Full/Stack</h4>
