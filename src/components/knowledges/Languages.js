@@ -23,7 +23,7 @@ class Languages extends Component {
         return (
             <div className="languagesFrameworks">
                 <ProgressBar
-                languages={langages}
+                languages={languages}
                 className="languagesDisplay"
                 title="languages"
                 />
