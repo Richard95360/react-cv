@@ -11,7 +11,7 @@ class Languages extends Component {
         ],
         frameworks :[
             {id:1, value:"React", xp:3},
-            {id:2, value:"Agnular", xp:3},
+            {id:2, value:"Angular", xp:3},
             {id:3, value:"Bootstrap", xp:4},
             {id:4, value:"NodeJs", xp:1}
         ]
@@ -23,13 +23,13 @@ class Languages extends Component {
         return (
             <div className="languagesFrameworks">
                 <ProgressBar
-                languages={languages}
+                languages={langages}
                 className="languagesDisplay"
                 title="languages"
                 />
                 <ProgressBar
                 languages={frameworks}
-                title="frameworks & bibliothéques"
+                title="frameworks & bibliothêques"
                 className="frameworksDisplay"
                 />
             </div>
